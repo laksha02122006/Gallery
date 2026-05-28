@@ -1,5 +1,7 @@
 # Ex.07 Design of Interactive Image Gallery
-# Date:
+# Date: 28/05/2026
+# Name: V.B.Laksha
+# Reg.no: 212224220051
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
